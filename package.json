@@ -10,5 +10,14 @@
   "devDependencies": {
     "node-sass": "^4.12.0"
   },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msynko/Natours.git"
+  },
+  "bugs": {
+    "url": "https://github.com/msynko/Natours/issues"
+  },
+  "homepage": "https://github.com/msynko/Natours#readme",
   "description": ""
 }
