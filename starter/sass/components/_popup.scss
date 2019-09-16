@@ -52,11 +52,14 @@
         transform: traslate(-50%, -50%) scale(0.5);
         transition: all .4s .2s;
 
+
+
     }
 
     &__left {
         width: 33.3333333%;
         display: table-cell;
+
 
     }
 
@@ -65,6 +68,9 @@
         display: table-cell;
         vertical-align: middle;
         padding: 3rem 5rem;
+
+
+
     }
 
     &__img {
