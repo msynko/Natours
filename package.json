@@ -6,6 +6,7 @@
     "watch:sass": "node-sass starter/sass/main.scss starter/css/style.css -w",
     "devserver": "live-server",
     "start": "npm-run-all --parallel devserver watch:sass",
+
     "compile:sass": "node-sass starter/sass/main.scss starter/css/style.comp.css",
     "concat:css": "concat -o starter/css/style.concat.css starter/css/icon-font.css starter/css/style.comp.css",
     "prefix:css": "postcss --use autoprefixer -b \"last 10 versions\" starter/css/style.concat.css -o starter/css/style.prefix.css",
